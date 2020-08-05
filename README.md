@@ -37,3 +37,8 @@ c8: hair and makeup
 c9: talking to a passenger
  
 The dataset contains a total of 102150 images split into a training set of 22424 images and a testing set of 79726 images.
+
+
+#input images
+
+![alt text](https://github.com/[asadbaig039]/[InputOutputImages]/blob/[master]/Input1.PNG?raw=true)
